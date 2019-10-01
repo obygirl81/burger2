@@ -1,5 +1,5 @@
 
-Eat-Da-Burger is a full-stack application that allows users to submit an order of a burger that they want to devour or select from the list of burgers that are in the system and "devour" the burger. Node, MySQL, Express, Handlebars, and sequelize were utilized in this app and the application has been deployed to Heroku here: 
+Eat-Da-Burger is a full-stack application that allows users to submit an order of a burger that they want to devour or select from the list of burgers that are in the system and "devour" the burger. Node, MySQL, Express, Handlebars, and sequelize were utilized in this app and the application has been deployed to Heroku here: https://fast-hollows-08474.herokuapp.com
 The following were technologies Used
 •	CSS (w/Bootstrap framework)
 •	JavaScript
