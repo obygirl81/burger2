@@ -1,17 +1,29 @@
 {
-  "name": "node_what_todo",
+  "name": "burger",
   "version": "1.0.0",
-  "description": "-Node \r -Express \r -MySQL \r -Handlebars \r -Jquery",
+  "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "seed": "node seeders/seeds.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelrosario/burger.git"
+  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "express": "^4.16.3",
-    "express-handlebars": "^3.0.0",
-    "mysql": "^2.16.0"
+  "bugs": {
+    "url": "https://github.com/michaelrosario/burger/issues"
   },
-  "devDependencies": {}
+  "homepage": "https://github.com/michaelrosario/burger#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mysql": "^2.16.0",
+    "mysql2": "^1.7.0",
+    "sequelize": "^5.19.1"
+  }
 }
